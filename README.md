@@ -69,15 +69,15 @@ Os dados utilizados neste projeto são públicos e foram obtidos de fontes abert
 Como as licenças gratuitas do Power BI não permitem a publicação de links públicos interativos, você pode explorar o projeto da seguinte forma:
 
 ```
-1.  **Baixe o arquivo `.pbix`:**
-    * Faça o download do arquivo `Analis_ocorrencias_P.F.pbix` que está neste repositório.
+1.  Baixe o arquivo .pbix:
+    Faça o download do arquivo Analis_ocorrencias_P.F.pbix que está neste repositório.
 
-2.  **Abra no Power BI Desktop:**
-    * Você precisa ter o [Microsoft Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/) (aplicativo 100% gratuito para Windows) instalado em sua máquina.
-    * Abra o arquivo `.pbix` nele.
+2.  Abra no Power BI Desktop:
+    Você precisa ter o [Microsoft Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/) (aplicativo 100% gratuito para Windows) instalado em sua máquina.
+    * Abra o arquivo .pbix nele.
 
-3.  **Interaja!**
-    * Pronto! Agora você tem acesso ao dashboard completo e 100% interativo, podendo aplicar filtros, analisar os dados e ver todo o trabalho de modelagem.
+3.  Interaja!
+    Pronto! Agora você tem acesso ao dashboard completo e 100% interativo, podendo aplicar filtros, analisar os dados e ver todo o trabalho de modelagem.
 ```
 
 ---

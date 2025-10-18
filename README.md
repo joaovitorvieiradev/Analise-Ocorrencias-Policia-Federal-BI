@@ -57,9 +57,9 @@ Além da visão geral, o painel permite filtros detalhados. Abaixo, dois exemplo
 Os dados utilizados neste projeto são públicos e foram obtidos de fontes abertas. Eles estão divididos nos seguintes arquivos neste repositório:
 
 ```
-* `OCORRENCIAS_ate_2023.csv`
-* `OCORRENCIAS_2024.csv`
-* `OCORRENCIAS_2025 (1).csv`
+* OCORRENCIAS_ate_2023.csv
+* OCORRENCIAS_2024.csv
+* OCORRENCIAS_2025 (1).csv
 ```
 
 ---
@@ -68,6 +68,7 @@ Os dados utilizados neste projeto são públicos e foram obtidos de fontes abert
 
 Como as licenças gratuitas do Power BI não permitem a publicação de links públicos interativos, você pode explorar o projeto da seguinte forma:
 
+```
 1.  **Baixe o arquivo `.pbix`:**
     * Faça o download do arquivo `Analis_ocorrencias_P.F.pbix` que está neste repositório.
 
@@ -77,6 +78,7 @@ Como as licenças gratuitas do Power BI não permitem a publicação de links p�
 
 3.  **Interaja!**
     * Pronto! Agora você tem acesso ao dashboard completo e 100% interativo, podendo aplicar filtros, analisar os dados e ver todo o trabalho de modelagem.
+```
 
 ---
 

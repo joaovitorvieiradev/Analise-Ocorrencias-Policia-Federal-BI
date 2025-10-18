@@ -74,7 +74,7 @@ Como as licenças gratuitas do Power BI não permitem a publicação de links p�
 
 2.  Abra no Power BI Desktop:
     Você precisa ter o [Microsoft Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/) (aplicativo 100% gratuito para Windows) instalado em sua máquina.
-    * Abra o arquivo .pbix nele.
+    Abra o arquivo .pbix nele.
 
 3.  Interaja!
     Pronto! Agora você tem acesso ao dashboard completo e 100% interativo, podendo aplicar filtros, analisar os dados e ver todo o trabalho de modelagem.

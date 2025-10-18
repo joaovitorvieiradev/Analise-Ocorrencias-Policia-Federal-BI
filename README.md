@@ -1,7 +1,7 @@
 # 📊 Análise de Ocorrências com Armas de Fogo no Brasil (Polícia Federal)
 
 <p align="center">
-  <img src="print geral.png" alt="Visão Geral do Dashboard" width="850"/>
+  <img src="assets/images/print geral.png" alt="Visão Geral do Dashboard" width="850"/>
 </p>
 
 <p align="center">
@@ -45,8 +45,8 @@ Além da visão geral, o painel permite filtros detalhados. Abaixo, dois exemplo
     <td><b>Análise Geográfica (Filtro: Estado de Minas Gerais)</b></td>
   </tr>
   <tr>
-    <td><img src="print mes 10 2024.png" alt="Dashboard filtrado por Mês 10 2024" width="450"/></td>
-    <td><img src="print MG.png" alt="Dashboard filtrado por MG" width="450"/></td>
+    <td><img src="assets/images/print mes 10 2024.png" alt="Dashboard filtrado por Mês 10 2024" width="450"/></td>
+    <td><img src="assets/images/print MG.png" alt="Dashboard filtrado por MG" width="450"/></td>
   </tr>
 </table>
 
